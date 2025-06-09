@@ -184,7 +184,7 @@ $cart_count = $result['total_quantity'] ?? 0;
 </head>
 <body>
 <header>
-    <div class="logo">Simple Store</div>
+    <div class="logo">Shopping</div>
     <nav>
         <a href="index.php">Home</a>
         <a href="cart.php">Cart </a>
